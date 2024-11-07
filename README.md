@@ -6,13 +6,17 @@ Este projeto é uma versão aprimorada do [Conversor de moeda](https://github.co
 
 - Atualização de Taxas em Tempo Real: Utiliza uma API de câmbio para obter as taxas de moedas mais recentes, eliminando a necessidade de atualizações manuais no codigo.
 
-- Conversão Rápida entre Moedas: Realiza a conversão entre diversas moedas, permitindo que o usuário selecione a moeda de origem e a de destino.
+- Conversão Rápida entre Moedas: Realiza a conversão entre 3 tipos de moedas, permitindo que o usuário selecione a moeda de origem e a de destino.
 
 - Tratamento de Erros: Informa o usuário em caso de problemas com a API ou entradas inválidas, oferecendo uma experiência mais fluida e robusta.
 
 ## ⚙️ Explicação dos Códigos Principais
 
-- O projeto utiliza JavaScript para conectar-se à ExchangeRate API, obtendo taxas de câmbio atualizadas em tempo real. O código principal é dividido em três partes:
+- O projeto utiliza JavaScript para conectar-se à [ExchangeRate API](https://www.exchangerate-api.com/), obtendo taxas de câmbio atualizadas em tempo real. 
+
+- Como cadastrar neste site? e simples! 
+
+- Basta cadastrar um e-mail válido, e você receberá um e-mail de confirmação que dará acesso à sua chave de API.
 
 - Configuração da API: Define a chave de autenticação e a URL da API para acessar as taxas de câmbio mais recentes.
 
